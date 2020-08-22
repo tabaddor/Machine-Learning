@@ -19,6 +19,7 @@
 - [Deep Learning Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
 
 #### Projects/Tutorials
+- [PyTorch Tutorial for Deep Learning](https://github.com/yunjey/pytorch-tutorial)
 - [Open AI Spinning Up for Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/)
 
 
