@@ -10,7 +10,8 @@
 ## Machine Learning :robot:
 #### Reading/Courses
 - [Stanford's Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
-  - [Course assignments, lecture slides, etc](http://cs229.stanford.edu/syllabus.html)
+  - [CS229 Python and Numpy](cs229.stanford.edu/section/cs229_python_tutorial/cs299_python_friday.pdf)
+  - [Deep Learning](cs229.stanford.edu/notes2020spring/cs229-notes-deep_learning.pdf)
 
 
 ## Deep Learning :brain:
