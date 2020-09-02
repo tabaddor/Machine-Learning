@@ -20,6 +20,7 @@
 
 #### Projects/Tutorials
 - [PyTorch Tutorial for Deep Learning](https://github.com/yunjey/pytorch-tutorial)
+- [fast.ai](https://www.fast.ai/)
 - [Open AI Spinning Up for Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/)
 
 
