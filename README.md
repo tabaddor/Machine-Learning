@@ -10,8 +10,7 @@
 ## Machine Learning :robot:
 #### Reading/Courses
 - [Stanford's Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
-  - [CS229 Python and Numpy](cs229.stanford.edu/section/cs229_python_tutorial/cs299_python_friday.pdf)
-  - [Deep Learning](cs229.stanford.edu/notes2020spring/cs229-notes-deep_learning.pdf)
+- [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources)
 
 
 ## Deep Learning :brain:
