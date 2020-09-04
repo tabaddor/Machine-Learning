@@ -28,3 +28,6 @@
 #### Reading/Courses
 - [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [Computer Vision for Autonomous Vehicles](https://arxiv.org/pdf/1704.05519.pdf)
+
+## Other Resources 
+- [Five Essential Skills for Undergraduate Resources](https://go-gale-com.proxy.lib.umich.edu/ps/i.do?p=AONE&u=umuser&id=GALE%7CA324399343&v=2.1&it=r&sid=summon)
