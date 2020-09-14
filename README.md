@@ -10,13 +10,15 @@
 ## Machine Learning :robot:
 #### Reading/Courses
 - [Stanford's Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
-- [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources)
 
 
 ## Deep Learning :brain:
 #### Reading/Courses
 - [Deep Learning Textbook](http://www.deeplearningbook.org/)
 - [Deep Learning Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
+
+#### Reinforcement Learning
+- [Reinforcement Learning- An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 
 #### Projects/Tutorials
 - [PyTorch Tutorial for Deep Learning](https://github.com/yunjey/pytorch-tutorial)
@@ -26,8 +28,8 @@
 
 ## Computer Vision :eyes:
 #### Reading/Courses
-- [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [Computer Vision for Autonomous Vehicles](https://arxiv.org/pdf/1704.05519.pdf)
+- [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 
 ## Other Resources 
 - [Five Essential Skills for Undergraduate Researchers](https://go-gale-com.proxy.lib.umich.edu/ps/i.do?p=AONE&u=umuser&id=GALE%7CA324399343&v=2.1&it=r&sid=summon)
