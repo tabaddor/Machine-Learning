@@ -22,7 +22,6 @@
 
 #### Projects/Tutorials
 - [PyTorch Tutorial for Deep Learning](https://github.com/yunjey/pytorch-tutorial)
-- [fast.ai](https://www.fast.ai/)
 - [Open AI Spinning Up for Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/)
 
 
@@ -30,6 +29,3 @@
 #### Reading/Courses
 - [Computer Vision for Autonomous Vehicles](https://arxiv.org/pdf/1704.05519.pdf)
 - [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
-
-## Other Resources 
-- [Five Essential Skills for Undergraduate Researchers](https://go-gale-com.proxy.lib.umich.edu/ps/i.do?p=AONE&u=umuser&id=GALE%7CA324399343&v=2.1&it=r&sid=summon)
