@@ -29,3 +29,6 @@
 #### Reading/Courses
 - [Computer Vision for Autonomous Vehicles](https://arxiv.org/pdf/1704.05519.pdf)
 - [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+
+## Papers 
+- [Neural Turing Machine](https://arxiv.org/abs/1410.5401)
