@@ -33,3 +33,4 @@
 ## Papers 
 - [Neural Turing Machine](https://arxiv.org/abs/1410.5401)
 - [Neuroscience Inspired Artificial Intelligence](https://www.cell.com/neuron/pdf/S0896-6273%2817%2930509-3.pdf)
+- [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf)
