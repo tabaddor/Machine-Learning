@@ -1,4 +1,4 @@
-# Study material, resources, and papers for ML, DL, RL, & CV
+# Resources for ML, DL, RL, & CV
 
 ## Machine Learning
 #### Reading/Courses
