@@ -1,19 +1,15 @@
-# ML, DL, RL, & CV
+# Study material, resources, and papers for ML, DL, RL, & CV
 
-## Mathematics :chart_with_upwards_trend:
+## Machine Learning
 #### Reading/Courses
+- [Stanford's Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Statistical and Mathematical Methods](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/notes.html)
 - [Linear Algebra MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
-
-## Machine Learning :robot:
-#### Reading/Courses
-- [Stanford's Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
-
 #### Papers
 
-## Deep Learning :brain:
+## Deep Learning
 #### Reading/Courses
 - [Deep Learning Textbook](http://www.deeplearningbook.org/)
 - [Deep Learning Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
@@ -32,7 +28,7 @@
 
 #### Papers
 
-## Computer Vision :eyes:
+## Computer Vision
 #### Reading/Courses
 - [Computer Vision for Autonomous Vehicles](https://arxiv.org/pdf/1704.05519.pdf)
 - [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
