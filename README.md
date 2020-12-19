@@ -1,5 +1,3 @@
-# Resources for ML, DL, RL, & CV
-
 ## Machine Learning
 #### Reading/Courses
 - [Stanford's Machine Learning Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
