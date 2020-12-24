@@ -25,6 +25,7 @@
 - [Open AI Spinning Up for Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/)
 
 #### Papers
+- [Data Efficient Hierarchical Reinforcement Learning](https://papers.nips.cc/paper/2018/file/e6384711491713d29bc63fc5eeb5ba4f-Paper.pdf)
 
 ## Computer Vision
 #### Reading/Courses
