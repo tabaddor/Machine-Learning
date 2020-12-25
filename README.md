@@ -6,6 +6,7 @@
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 #### Papers
+- [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
 
 ## Deep Learning
 #### Reading/Courses
