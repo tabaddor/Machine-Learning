@@ -7,6 +7,7 @@
 
 #### Papers
 - [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
+- [Learnable Evolution Model: Evolutionary Processes Guided by Machine Learning](https://link.springer.com/article/10.1023/A:1007677805582)
 
 ## Deep Learning
 #### Reading/Courses
