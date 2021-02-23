@@ -8,6 +8,7 @@
 #### Papers
 - [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
 - [Learnable Evolution Model: Evolutionary Processes Guided by Machine Learning](https://link.springer.com/article/10.1023/A:1007677805582)
+- [Concrete Problems in AI Safety](https://arxiv.org/pdf/1606.06565.pdf%20http://arxiv.org/abs/1606.06565.pdf)
 
 ## Deep Learning
 #### Reading/Courses
